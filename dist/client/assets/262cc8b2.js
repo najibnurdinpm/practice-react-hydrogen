@@ -1,0 +1,2 @@
+import{r as a,a as m}from"./index.12980c00.js";import"./17dc894b.js";import"./eb35c225.js";import{u as s}from"./65902cd8.js";import"./8a56554b.js";import"./55bbc67b.js";import{ShopPayButton as n}from"./72d2c2df.js";import"./692be0fa.js";import"./4f9f6ebd.js";import"./89cba7c1.js";import"./6106a1d6.js";function B({className:o}){const{lines:t}=s(),i=a.exports.useMemo(()=>t.map(r=>({id:r.merchandise.id,quantity:r.quantity})),[t]);return m(n,{className:o,variantIdsAndQuantities:i})}export{B as CartShopPayButton};
+//# sourceMappingURL=262cc8b2.js.map
